@@ -21,7 +21,7 @@ Para utilizar este repositório, siga estes passos:
 1. Clone o repositório para o seu ambiente de desenvolvimento:
 
    ```bash
-   git clone https://github.com/seu-usuario/repo-listas-e-collections-java.git
+   git clone https://github.com/srtapoe/collections-studies
 
 2. Abra o repositório clonado na sua IDE de preferência. Eu utilizo o Intellij :point_down:
 3. Para baixar o Intellij é só acessar o site da [JetBrains - Intellij IDE Java e Kotlin](https://www.jetbrains.com/idea/?var=1)
